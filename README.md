@@ -12,6 +12,8 @@ https://github.com/MakTsy/TRSPO_test_passing
 Test Report Service:
 https://github.com/MakTsy/TRSPO_test_report
 
+Time Counter Service:
+https://github.com/MakTsy/time-counter-service.git
 
 
 NOTE:
