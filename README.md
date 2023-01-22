@@ -1,4 +1,3 @@
-# TRSPO_lab2
 System for student testing:
 
 User Management Service:
