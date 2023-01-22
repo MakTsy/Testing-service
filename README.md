@@ -52,3 +52,5 @@ Test Management Service: 31002
 Test Passing Service: 31001
 
 Test Report Service: 31004
+
+Test Counting Service: 31005
